@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Bazar_Web.Models.Orden>
+
+@{
+    ViewBag.Title = "PedidosPendientes";
+}
+
+<h2>Pedidos Pendientes</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Usuario
+        </th>
+        <th>
+            Fecha Pedido
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UsuarioNombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaPedido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "EditarPedido", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
+
+@Html.ActionLink("Volver", "Index", null, new { @class = "btn btn-secondary" })

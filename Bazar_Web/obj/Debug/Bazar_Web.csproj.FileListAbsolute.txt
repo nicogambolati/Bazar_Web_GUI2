@@ -1,0 +1,425 @@
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\ApplicationInsights.config
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Bazar_Web.dll.config
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Bazar_Web.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Bazar_Web.pdb
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\csc.exe
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\csc.exe.config
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\csc.rsp
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\csi.exe
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\csi.exe.config
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\csi.rsp
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.AppContext.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Console.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\vbc.exe
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\vbc.exe.config
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\vbc.rsp
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Antlr3.Runtime.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\EntityFramework.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AI.Web.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Newtonsoft.Json.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Owin.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.Helpers.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.Mvc.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.Optimization.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.Razor.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\WebGrease.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.Helpers.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.Mvc.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.Optimization.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.Razor.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Newtonsoft.Json.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Antlr3.Runtime.pdb
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\EntityFramework.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.AI.Web.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\EntityFramework.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csprojAssemblyReference.cache
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csproj.CoreCompileInputs.cache
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csproj.CopyComplete
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.dll
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.pdb
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.InitialCreate.resources
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csproj.GenerateResource.cache
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.AgregamosProductos.resources
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamosprecioystock.resources
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamoscarrito.resources
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.AgregamosOrden.resources
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamoselcontexto.resources
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.AgregamoselNombredeusuario.resources
+C:\Users\nicog\source\repos\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamosproductosbazar.resources
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\ApplicationInsights.config
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Bazar_Web.dll.config
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Bazar_Web.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Bazar_Web.pdb
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\csc.exe
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\csc.exe.config
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\csc.rsp
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\csi.exe
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\csi.exe.config
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\csi.rsp
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.AppContext.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Console.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\vbc.exe
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\vbc.exe.config
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\vbc.rsp
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Antlr3.Runtime.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\EntityFramework.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AI.Web.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Newtonsoft.Json.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Owin.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.Helpers.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.Mvc.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.Optimization.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.Razor.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\WebGrease.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.Helpers.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.Mvc.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.Optimization.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.Razor.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Newtonsoft.Json.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Antlr3.Runtime.pdb
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\EntityFramework.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.AI.Web.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\EntityFramework.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csprojAssemblyReference.cache
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.InitialCreate.resources
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.AgregamosProductos.resources
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamosprecioystock.resources
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamoscarrito.resources
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.AgregamosOrden.resources
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamoselcontexto.resources
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.AgregamoselNombredeusuario.resources
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamosproductosbazar.resources
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csproj.GenerateResource.cache
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csproj.CoreCompileInputs.cache
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csproj.CopyComplete
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.dll
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.pdb
+C:\Users\nicog\Desktop\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.borramoscarritoproducto.resources
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\ApplicationInsights.config
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Bazar_Web.dll.config
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Bazar_Web.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Bazar_Web.pdb
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\csc.exe
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\csi.exe
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\EntityFramework.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Owin.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\WebGrease.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\EntityFramework.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\EntityFramework.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.InitialCreate.resources
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.AgregamosProductos.resources
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamosprecioystock.resources
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamoscarrito.resources
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.AgregamosOrden.resources
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamoselcontexto.resources
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.AgregamoselNombredeusuario.resources
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.agregamosproductosbazar.resources
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.Migrations.borramoscarritoproducto.resources
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.csproj.CopyComplete
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.dll
+C:\Users\user\Desktop\UCES\GUI 2\Bazar_Web\Bazar_Web\obj\Debug\Bazar_Web.pdb

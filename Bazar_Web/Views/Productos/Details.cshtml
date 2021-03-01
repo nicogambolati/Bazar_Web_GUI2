@@ -1,0 +1,39 @@
+﻿@model Bazar_Web.Models.Producto
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="row product-data">
+    <div class="col-12 col-md-5">
+        <img src="@Model.ImagenURL" />
+    </div>
+    <div class="col-12 col-md-7 product-data-contenedor">
+        <h1>@Html.DisplayFor(model => model.Nombre)</h1>
+        <p class="producto-descripcion">@Html.DisplayFor(model => model.Descripcion)</p>
+        <div class="row producto-precio">
+            <div class="col-2 nombre-campo">
+                Precio:
+            </div>
+            <div class="col-10">
+                $ @Html.DisplayFor(model => model.Precio)
+            </div>
+        </div>
+        <div class="row producto-stock">
+            <div class="col-2 nombre-campo">
+                Stock:
+            </div>
+            <div class="col-10">
+                @Html.DisplayFor(model => model.Stock)
+            </div>
+        </div>  
+    </div>
+</div>
+
+<p>
+    @if (Request.IsAuthenticated && User.IsInRole("Administrador"))
+    {
+        @Html.ActionLink("Editar", "Edit", new { id = Model.Id }, new { @class = "btn btn-outline-success" })
+    }
+    @Html.ActionLink("Volver", "Index", null, new { @class = "btn btn-outline-secondary" })
+</p>

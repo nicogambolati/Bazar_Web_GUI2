@@ -1,0 +1,101 @@
+﻿body {
+    /*padding-top: 50px;*/
+    padding-bottom: 20px;
+    background-image: url(https://images.unsplash.com/photo-1563291074-2bf8677ac0e5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=651&q=80);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 50px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+.jumbotron > .left {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+}
+
+.jumbotron > .right {
+    display: inline-block;
+    width: auto;
+   
+}
+
+.social-icons img {
+    width: 32px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.cantidad {
+    display: inline-flex;
+}
+
+.actualizar_cantidad {
+    margin-left: 20px;
+}
+
+.carrito-botonera {
+    display: flex;
+}
+
+.carrito-botonera .btn {
+    margin-right: 10px;
+}
+
+.product-data {
+    margin-top:30px;
+}
+
+.product-data-contenedor {
+    border-left: 1px solid #8e8c84;
+}
+
+.product-data-contenedor > h1,
+.product-data-contenedor > p {
+    margin-left: 10px;
+}
+
+.product-data-contenedor .nombre-campo {
+    padding-left: 25px;
+}
+
+.product-data img {
+    max-width: 100%;
+}
+
+.product-data-contenedor .producto-precio {
+    font-size: 18px;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+
+.product-data-contenedor .producto-stock {
+    font-weight: bolder;
+    color: #93c54b;
+}
+
+.registrar-usuario .form-control {
+    max-width: 100%;
+}

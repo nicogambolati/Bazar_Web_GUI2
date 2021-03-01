@@ -1,0 +1,35 @@
+﻿@model Bazar_Web.Models.Orden
+
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<h2>Checkout</h2>
+
+<div>
+    <h4>¡Tu Orden se grabó exitosamente!</h4>
+    <p>
+        En breve nos pondremos en contacto con vos.
+    </p>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Fecha Pedido
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FechaPedido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Volver al inicio", "Index", "Home", null, new { @class = "btn btn-outline-secondary" })
+
+</p>

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Bazar_Web.Models.CarritoProducto>
+
+@{
+    ViewBag.Title = "Productos Sin Stock";
+}
+<div>
+    <span>Su pedido no se pudo procesar porque los siguientes productos no tienen el stock solicitado.</span>
+
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item.Nombre</li>
+        }
+    </ul>
+</div>

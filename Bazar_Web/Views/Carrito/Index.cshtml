@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Bazar_Web.Models.CarritoProducto>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Carrito</h2>
+
+@if (Model.Count() > 0)
+{
+    <table class="table">
+        <tr>
+            <th>
+                Imagen
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@item.ImagenURL" width="100" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    $ @Html.DisplayFor(modelItem => item.Precio)
+                </td>
+                <td>
+                    <div>
+                        <div class="form-group cantidad">
+                            @Html.TextBoxFor(modelItem => item.Cantidad, new { @class = "form-control col-4" })
+
+                            <button onclick="Actualizar_Carrito('@item.ProductoId', $(this).parent().children('input').val())" class="btn btn-outline-success actualizar_cantidad">
+                                Actualizar
+                            </button>
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <button onclick="Borrar_Carrito('@item.ProductoId')" class="btn btn-outline-danger">
+                        Borrar
+                    </button>
+                </td>
+            </tr>
+        }
+        <tfoot>
+            <tr>
+                <td></td>
+                <td>Total: </td>
+                <td><b>$ @Model.Sum(x => x.Precio * x.Cantidad)</b></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <div class="carrito-botonera">
+        @if (Request.IsAuthenticated)
+        {
+            <form method="get" action="/carrito/Checkout">
+                <button type="submit" class="btn btn-outline-success">Confirmar Orden</button>
+            </form>
+        }
+        else
+        {
+            <p>Para confirmar pedido, necesitas <a href="/Account/Login">iniciar sesión</a>.</p>
+        }
+
+        <a class="btn btn-success" href="/Productos">
+            Volver
+        </a>
+    </div>
+}
+
+else
+{
+    <div class="alert alert-dismissible alert-warning">
+        <h4 class="alert-heading">Atencion!</h4>
+        <p class="mb-0"> Tu carrito esta vacio.</p>
+    </div>
+}
+

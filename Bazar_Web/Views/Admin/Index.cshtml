@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Panel de administración</h2>
+
+<div class="list-group">
+    @Html.ActionLink("Ver pedidos pendientes", "PedidosPendientes", "admin", new { @class = "list-group-item list-group-item-action" })
+    @Html.ActionLink("Ver productos sin stock", "ProductosSinStock", "admin", new { @class = "list-group-item list-group-item-action" })
+    @Html.ActionLink("Ver usuarios registrados", "Usuarios", "admin", new { @class = "list-group-item list-group-item-action" })
+</div>
